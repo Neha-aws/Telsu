@@ -1,0 +1,9 @@
+EC2 name is - Windows-1
+
+> Key name is : Windows-1-key 
+
+>User name is: Administrator
+> Public DNS is:  ec2-52-66-26-10.ap-south-1.compute.amazonaws.com
+>Password is : VLs-g$Ln$nu0cZw8DX5WF$6)xUGq=?tJ
+
+> RDP: 3389
