@@ -7,3 +7,4 @@ EC2 name is - Windows-1
 >Password is : VLs-g$Ln$nu0cZw8DX5WF$6)xUGq=?tJ
 
 > RDP: 3389
+thanks
